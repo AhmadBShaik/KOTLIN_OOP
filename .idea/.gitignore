@@ -139,17 +139,3 @@ hs_err_pid*
 
 
 
-
-.idea/codeStyles/Project.xml
-.idea/codeStyles/codeStyleConfig.xml
-.idea/kotlinc.xml
-.idea/libraries/KotlinJavaRuntime.xml
-.idea/libraries/KotlinJavaRuntime__2_.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-KOTLIN_OOP.iml
-out/production/KOTLIN_OOP/META-INF/KOTLIN_OOP.kotlin_module
-out/production/KOTLIN_OOP/MainKt.class
-out/production/KOTLIN_OOP/encapsulation/Book.class
-out/production/KOTLIN_OOP/encapsulation/MainKt.class
